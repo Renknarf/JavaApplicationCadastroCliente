@@ -16,7 +16,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
  *
- * @author alex
+ * @author frankner
  */
 public class JFrameClientes extends javax.swing.JFrame {
 
