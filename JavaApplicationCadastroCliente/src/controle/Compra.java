@@ -31,7 +31,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author alex
+ * @author frankner
  */
 @Entity
 @Table(name = "compra")
