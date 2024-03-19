@@ -31,7 +31,7 @@ import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author alex
+ * @author frankner
  */
 @Entity
 @Table(name = "cliente", uniqueConstraints = {
