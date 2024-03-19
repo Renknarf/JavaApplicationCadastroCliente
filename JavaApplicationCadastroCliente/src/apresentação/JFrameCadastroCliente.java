@@ -7,7 +7,7 @@ package apresentação;
 
 /**
  *
- * @author alex
+ * @author frankner
  */
 public class JFrameCadastroCliente extends javax.swing.JFrame {
 
